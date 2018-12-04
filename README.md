@@ -1,2 +1,2 @@
 # sysadmin-shell
-random shell scripts for system adinistration
+random shell scripts for system administration
